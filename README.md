@@ -3,8 +3,6 @@
 
 # Hey 👋, I'm Salam Aboul Hosn!
 
-**Software Engineer | AI Engineering | Full-Stack Development**
-
 </div>
 
 ## 👨‍💻 About Me
@@ -51,7 +49,3 @@ I specialize in building scalable backend systems, full-stack applications, and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 🔗 Connect With Me
-
-[Portfolio](https://www.salamaboulhosn.com/)
