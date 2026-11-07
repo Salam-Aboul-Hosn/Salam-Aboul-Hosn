@@ -1,25 +1,26 @@
 
 <div align="center">
 
-# Hey, I'm Salam Aboul Hosn!
+# Hey 👋, I'm Salam Aboul Hosn!
 
 **Software Engineer | AI Engineering | Full-Stack Development**
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Software Engineer and UC San Diego graduate with a degree in Mathematics–Computer Science.
 
 I specialize in building scalable backend systems, full-stack applications, and reliable AI agents.
 
-## What I'm Up To
+## 🎯 What I'm Up To
 
-- Developing AI agents using LangGraph and LangChain
-- Engineering warehouse management systems at Best Choice Products
-- Exploring AI infrastructure, evaluation, and production reliability
+- 🚀 Looking to build something meaningful that solves real-world problems.
+- 🤖 Developing AI agents using **LangGraph** and **LangChain**
+- 💻 Engineering warehouse management systems at **Best Choice Products**
+- 🌱 Exploring AI infrastructure, evaluation, and production reliability
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages
 
@@ -36,14 +37,14 @@ I specialize in building scalable backend systems, full-stack applications, and 
 ![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-### AI & Agents
+### 🤖 AI & Agents
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangSmith](https://img.shields.io/badge/LangSmith-174F46?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-555555?style=flat)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -51,6 +52,6 @@ I specialize in building scalable backend systems, full-stack applications, and 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## More About Me
+## 🌐 More About Me
 
 [Portfolio](https://www.salamaboulhosn.com/)
